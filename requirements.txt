@@ -1,0 +1,2 @@
+Below are the python libraries that you need to install:
+tensorflow, numpy, matplotlib, scikit-learn, pandas, glob, csv, pickle, heapq
